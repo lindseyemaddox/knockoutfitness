@@ -8,11 +8,11 @@
 					<h3 class="alt"><span itemprop="name">Knockout Fitness</span></h3>
 
 					<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-					<p class="bold"><span itemprop="streetAddress">2605 Westwood Drive</span><br />
+					<p class="bold"><span itemprop="streetAddress">2608 Franklin Pike</span><br />
 					<span itemprop="addressLocality">Nashville</span>, <span itemprop="addressRegion">TN</span>  <span itemprop="postalCode">37204</span></p>
 					</div>
 
-					<p class="small">One Block off Franklin Pike and Craighead in Berry Hill</p>
+<!-- 					<p class="small">One Block off Franklin Pike and Craighead in Berry Hill</p> -->
 
 					<p class="phone"><a href="tel:16152551359"><span itemprop="telephone">(615) 255-1359</span></a></p>
 
@@ -22,7 +22,7 @@
 
 				<div class="map">
 					
-				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3222.716585320594!2d-86.77552400000003!3d36.124761900000024!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x886465d1a03b04c3%3A0x8604d28754f4de3a!2s2605+Westwood+Dr%2C+Nashville%2C+TN+37204!5e0!3m2!1sen!2sus!4v1419806138796" width="100%" height="450" frameborder="0" style="border:0"></iframe>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3222.8537265200976!2d-86.7754709!3d36.1214212!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x886465ce1f4426c9%3A0x506ad386e11e4007!2s2608+Franklin+Pike%2C+Berry+Hill%2C+TN+37204!5e0!3m2!1sen!2sus!4v1432221870090" width="100%" height="450" frameborder="0" style="border:0"></iframe>
 
 				</div><!--map-->
 

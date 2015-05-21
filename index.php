@@ -9,7 +9,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Knockout Fitness</title>
-	<meta name="description" content="Knockout Fitness is Nashville's original boxing gym, offering personal training for over 20 years.">
+	<meta name="description" content="Knockout Fitness is Nashville's original boxing and kickboxing fitness gym, offering personal training for over 20 years.">
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/head.php'); // HTTP head?>
 </head>
 <body id="home">
@@ -34,7 +34,7 @@
 
   		<ul class="slides">
     		<li><img src="/_assets/img/slider-heavy-bag.jpg" alt="client punching the heavy bag at Knockout Fitness" /></li>
-    		<li><img src="/_assets/img/slider-kick.jpg" alt="client kicking at Knockout Fitness" /></li>
+    		<li><img src="/_assets/img/slider-kick.jpg" alt="client kicking at Knockout Fitness kickboxing training" /></li>
     		<li><img src="/_assets/img/slider-punching.jpg" alt="client punching at Knockout Fitness" /></li>
     		<li><img src="/_assets/img/slider-training.jpg" alt="client training at Knockout Fitness" /></li>
     		<li><img src="/_assets/img/slider-vance.jpg" alt="client exercising at Knockout Fitness" /></li>
@@ -77,6 +77,8 @@
 	
 	<div class="inner">
 		
+		<p>Knockout Fitness is relocating. While our new gym is under construction, Knockout Fitness will be temporarily located at <a style="color:#fff; text-decoration:underline;" href="https://goo.gl/maps/qAd7k" target="_blank" rel="nofollow">2608 Franklin Pike, Nashville TN 37204</a>.</p>
+		
 		<h2>The Workout</h2>
 
 		<img class="inset" src="/_assets/img/inset-gym.jpg" alt="interior shot of Knockout Fitness gym">
@@ -85,7 +87,7 @@
 
 		<div class="clearfix"></div>
 
-		<p>At Knockout Fitness we strive to provide you professional and knowledgeable boxing fitness training in a friendly and enjoyable environment. Knockout Fitness offers a fully-equipped boxing gym including a 20' boxing ring, cardio equipment and free weights. Boxing for fitness is a fun, easy to learn workout that will get you mentally and physically into the best shape of your life. The benefits are upper and lower body strength, coordination, various punching, kicking and self defense techniques, cardiovascular endurance and stamina.</p>
+		<p>At Knockout Fitness we strive to provide you professional and knowledgeable boxing and kickboxing fitness training in a friendly and enjoyable environment. Knockout Fitness offers a fully-equipped boxing gym including a 20' boxing ring, cardio equipment and free weights. Boxing for fitness is a fun, easy to learn workout that will get you mentally and physically into the best shape of your life. The benefits are upper and lower body strength, coordination, various punching, kicking and self defense techniques, cardiovascular endurance and stamina.</p>
 
 		<p>When compared to other exercise programs you will find that Knockout Fitness will give you superior results. Burning fat and calories comes naturally and looking fit and trim is the reward.</p>
 
@@ -106,12 +108,6 @@
 				<h6>&mdash; Andy Williams, <span>USA weightlifting certified, former strength and conditioning coach Kansas City Chiefs, Kansas City Royals, Tennessee State</span></h6>
 
 			</div><!--text-->
-
-			<div class="img">
-				
-				<img src="/_assets/img/andy-williams.png" alt="Boxer Andy Williams">
-
-			</div><!--img-->
 
 		</article>
 

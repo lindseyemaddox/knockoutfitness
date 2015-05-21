@@ -1181,8 +1181,7 @@ section#testimonials article.img {
   padding: 100px 0 70px;
 }
 section#testimonials article.img div.text {
-  width: 58%;
-  margin-right: 2%;
+  width: 100%;
   display: inline-block;
 }
 section#testimonials article.img div.img {
