@@ -60,8 +60,8 @@
 		  { echo "
 		        <form method='post' action='".$_SERVER['SCRIPT_NAME']."'>
 		        <div class='left'>
-			        <label for='name'>Name (required)</label><input type='text' required name='name' id='name' size='10'>
-			        <label for='phone'>Phone (required)</label><input type='text' required name='phone' id='phone' size='10'>
+			        <label for='name'>Name</label><input type='text' name='name' id='name' size='10'>
+			        <label for='phone'>Phone</label><input type='text' name='phone' id='phone' size='10'>
 			        <label for='email'>Email</label><input type='text' name='email' id='email' size='10'>
 		    	</div><!--left-->
 		    	<div class='right'>
