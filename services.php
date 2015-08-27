@@ -9,7 +9,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Services | Knockout Fitness</title>
-	<meta name="description" content="Hours of operation and training rates at Nashville boxing gym Knockout Fitness.">
+	<meta name="description" content="Hours of operation and training rates at Nashville boxing and kickboxing fitness gym Knockout Fitness.">
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/head.php'); // HTTP head?>
 </head>
 <body>
@@ -36,7 +36,7 @@
 
 		<p class="small">Effective January 1, 2015</p>
 
-		<h4>Training is offered <time itemprop="openingHours" datetime="Mo,Tu,We,Th,Fr,Su 5:00-20:00">Monday through Friday, and Sunday</time> by appointment. All training is non-contact, boxing fitness training.  Sparring is available on an individual client basis and is at the sole discretion of Knockout Fitness.  Protective headgear and mouthpiece are required when sparring.</h4>
+		<h4>Training is offered <time itemprop="openingHours" datetime="Mo,Tu,We,Th,Fr,Su 5:00-20:00">Sunday through Friday</time> by appointment. All training is non-contact, boxing and/or kickboxing fitness training.  Sparring is available on an individual client basis and is at the sole discretion of Knockout Fitness.  Protective headgear and mouthpiece are required when sparring.</h4>
 
 	</div><!--inner-->
 
@@ -52,15 +52,11 @@
 
 		<p class="email">Private Training</p>
 
-		<p class="center">Private training is offered to those clients wishing to have exclusive one-on-one training.</p>
-
 		<p class="center">10 sessions.  $70/hr ($700) &ndash; scheduled by appointment</p>
 
 		&nbsp;<br />&nbsp;
 
 		<p class="email">Semi-Private Training</p>
-
-		<p class="center">Semi-private training is offered to those clients who do not wish to have exclusive one-on-one training.</p>
 
 		<p class="center">5 sessions $55/hr ($275) &ndash; scheduled by appointment <br />
 		10 sessions $45/hr ($450) &ndash; scheduled by appointment</p>
